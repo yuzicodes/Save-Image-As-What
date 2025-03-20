@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "saveImageAs",
-    title: "Save Image As What?",
+    title: "Save Image As What",
     contexts: ["image"]
   });
   chrome.contextMenus.create({ id: "saveAsPNG", parentId: "saveImageAs", title: "PNG", contexts: ["image"] });

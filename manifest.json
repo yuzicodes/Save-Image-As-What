@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Save Image As What?",
+    "name": "Save Image As What",
     "version": "1.0",
-    "description": "Save any image as PNG, JPG, or WebP using the context menu.",
+    "description": "Save any image as PNG, JPG, or WebP directly from the right-click menu.",
     "permissions": ["contextMenus", "storage", "scripting", "downloads"],
     "background": {
       "service_worker": "scripts/background.js"
