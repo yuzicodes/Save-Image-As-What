@@ -34,7 +34,7 @@ We request the **minimum necessary permissions** for the extension to function p
 |---------------|------------------------------------------------|
 | `contextMenus` | Adds the "Save Image As What" option when right-clicking on images. |
 | `downloads` | Enables saving images in different formats to your device. |
-| `<all_urls>` | Allows downloading images from any website. The extension **does not** track or modify your browsing activity. |
+| `activeTab` | Ensures the extension operates only when necessary on the active tab. |
 
 ---
 
