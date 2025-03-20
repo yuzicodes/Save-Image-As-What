@@ -1,4 +1,4 @@
-![Extension Logo](https://i.postimg.cc/WbtkL8dQ/20250321-022227.png) <!-- Replace with actual logo URL if hosted -->
+![Extension Logo](https://i.postimg.cc/1zpGkbhB/20250321-015127.png) <!-- Replace with actual logo URL if hosted -->
 
 # Save Image As What
 *A Chrome extension that lets you save images as PNG, JPG, or WebP directly from the right-click menu.*
