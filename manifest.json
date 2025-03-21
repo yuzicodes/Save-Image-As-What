@@ -3,7 +3,7 @@
     "name": "Save Image As What",
     "version": "1.0",
     "description": "Save any image as PNG, JPG, or WebP directly from the right-click menu.",
-    "permissions": ["contextMenus", "storage", "scripting", "downloads"],
+    "permissions": ["contextMenus", "scripting", "activeTab", "downloads"],
     "background": {
       "service_worker": "scripts/background.js"
     },
@@ -12,9 +12,5 @@
       "48": "icons/48.png",
       "32": "icons/32.png",
       "16": "icons/16.png"
-    },
-    "action": {
-      "default_icon": "icons/128.png"
-    },
-    "host_permissions": ["<all_urls>"]
+    }
   }
