@@ -1,4 +1,4 @@
-![Extension Logo](https://i.postimg.cc/1zpGkbhB/20250321-015127.png) <!-- Replace with actual logo URL if hosted -->
+![Extension Logo](https://i.postimg.cc/1zpGkbhB/20250321-015127.png)
 
 # Save Image As What
 *A Chrome extension that lets you save images as PNG, JPG, or WebP directly from the right-click menu.*
@@ -12,7 +12,7 @@
 ## Installation  
 
 ### From Chrome Web Store  
-1. Visit the **[Chrome Web Store](your-extension-url)** <!-- Replace with actual link -->
+1. Visit the **[Chrome Web Store](your-extension-url)**
 2. Click **"Add to Chrome"**  
 3. Confirm installation  
 
