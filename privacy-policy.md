@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** March 21, 2025
+**Last Updated:** March 23, 2025
 
 ## 1. Introduction  
 "Save Image As What" is a Chrome extension that allows users to save images in different formats (PNG, JPG, WebP) via the right-click menu.  
@@ -34,7 +34,7 @@ We request the **minimum necessary permissions** for the extension to function p
 |---------------|------------------------------------------------|
 | `contextMenus` | Adds the "Save Image As What" option when right-clicking on images. |
 | `downloads` | Enables saving images in different formats to your device. |
-| `activeTab` | Ensures the extension operates only when necessary on the active tab. |
+| `<all_urls>` | Enables downloading images from any website for flexibility. This extension does not track or modify your browsing. |
 
 ---
 
