@@ -13,11 +13,6 @@ chrome.contextMenus.onClicked.addListener(async (info, tab) => {
   if (info.menuItemId.startsWith("saveAs")) {
     const format = info.menuItemId.replace("saveAs", "").toLowerCase();
     let srcUrl = info.srcUrl;
-
-    if(info.srcUrl.startsWith("http")) {
-      srcUrl = "https://api.allorigins.win/raw?url=" + info.srcUrl;
-    }
-    
     
     chrome.scripting.executeScript({
       target: { tabId: tab.id },
