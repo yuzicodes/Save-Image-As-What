@@ -29,7 +29,7 @@
 
 ## Usage  
 1. **Right-click** on any image on a webpage  
-2. Hover over the **"Save Image As What?"** menu  
+2. Hover over the **"Save Image As What"** menu  
 3. Choose **PNG, JPG, or WebP**  
 4. The image will be downloaded in the selected format  
 
@@ -40,7 +40,6 @@ The extension requires the following permissions:
 |------------|--------|
 | `contextMenus` | To add the **right-click menu** for image saving |
 | `scripting` | To execute scripts for **image conversion and download** |
-| `downloads` | To **save the converted image** to your device |
 
 This extension does **NOT** track or collect any data.  
 
