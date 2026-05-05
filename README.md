@@ -12,7 +12,7 @@
 ## Installation  
 
 ### From Chrome Web Store  
-1. Visit the **[Chrome Web Store](your-extension-url)**
+1. Visit the **[Chrome Web Store](https://chromewebstore.google.com/detail/nhlkillfphfidgepglnbogdafejnlecp?utm_source=item-share-cb)**
 2. Click **"Add to Chrome"**  
 3. Confirm installation  
 
