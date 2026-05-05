@@ -20,7 +20,7 @@
 1. Download the extension ZIP or clone the repository:
    
    ```bash
-   git clone https://github.com/yuzicodes/Save-Image-As-What.git
+   git clone https://github.com/yuzzzie/Save-Image-As-What.git
    ```
 2. Open **Chrome** and go to `chrome://extensions/`  
 3. Enable **Developer Mode** (top-right corner)  
