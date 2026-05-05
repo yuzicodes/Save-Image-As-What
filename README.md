@@ -45,16 +45,10 @@ This extension does **NOT** track or collect any data.
 
 ## Support Me  
 If you find this extension useful, you can **support me** by:  
-- [Star this respository](https://github.com/yuzicodes/Save-Image-As-What)  
-- [Follow me on X](https://x.com/yuzicodes)
+- [Star this respository](https://github.com/yuzzzie/Save-Image-As-What)  
+- [Follow me on X](https://x.com/yuzzziee)
 
 Your support means a lot! 🚀  
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+This project is licensed under the **MIT License**.
